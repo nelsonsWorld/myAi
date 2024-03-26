@@ -1,0 +1,71 @@
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git commit -m "Chatbox dishes!"
+[chatbot (root-commit) c0e282a] Chatbox dishes!
+ Committer: Zuluaga <zuluagan@corp.nychhc.org>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 163 insertions(+)
+ create mode 100644 chatMe.py
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git config --global --edit
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push origin chatbox
+error: src refspec chatbox does not match any
+error: failed to push some refs to 'https://github.com/nelsonsWorld/myAi'
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push remote origin chatbox  
+error: src refspec origin does not match any
+error: src refspec chatbox does not match any
+error: failed to push some refs to 'remote'
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push remote origin chatbox  
+error: src refspec origin does not match any
+error: src refspec chatbox does not match any
+error: failed to push some refs to 'remote'
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push origin chatbox        
+error: src refspec chatbox does not match any
+error: failed to push some refs to 'https://github.com/nelsonsWorld/myAi'
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push origin        
+fatal: The current branch chatbot has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin chatbot
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>git push --set-upstream origin chatbot
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 2.02 KiB | 1.01 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'chatbot' on GitHub by visiting:
+remote:      https://github.com/nelsonsWorld/myAi/pull/new/chatbot
+remote:
+To https://github.com/nelsonsWorld/myAi
+ * [new branch]      chatbot -> chatbot
+branch 'chatbot' set up to track 'origin/chatbot'.
+
+(openv) C:\Users\zuluagan\VSC\PythonAI\chatBot>
