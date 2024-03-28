@@ -2,5 +2,10 @@ https://pypi.org/project/black/
 
 https://djangoforbeginners.com/hello-world/
 
+https://stackoverflow.com/questions/17096311/why-do-i-need-to-explicitly-push-a-new-branch/17096880#17096880
 
-             
+.gitignore
+git checkout -b djangoPracticev1
+git add .
+git commit -m "Yeah"
+git push
