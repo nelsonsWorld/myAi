@@ -9,3 +9,6 @@ git checkout -b djangoPracticev1
 git add .
 git commit -m "Yeah"
 git push
+
+
+https://docs.djangoproject.com/en/5.0/intro/tutorial03/
