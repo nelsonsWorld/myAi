@@ -1,5 +1,6 @@
-##https://www.geeksforgeeks.org/working-with-excel-files-using-pandas/
-
+c#https://www.geeksforgeeks.org/working-with-excel-files-using-pandas/
+#https://stackoverflow.com/questions/63950775/how-can-i-insert-an-excel-formula-using-pandas-when-i-save-it-as-an-excel-file
+#https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-fromi
 ''' import pandas as pd
 
 
@@ -31,8 +32,8 @@ sheet2 = pd.read_excel(file,
 newData = pd.concat([sheet1, sheet2])
 
 '''
-#To view 5 columns from the top and from the bottom of the data frame.
 print(newData.head())
+#To view 5 columns from the top and from the bottom of the data frame.
 print(newData.tail())
 '''
 
